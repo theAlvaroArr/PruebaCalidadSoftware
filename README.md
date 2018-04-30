@@ -1,4 +1,8 @@
 # PruebaCalidadSoftware
-'''json
-djdjdksks
-'''
+```
+python testExceljson.py
+```
+```json
+djdje{}
+```
+
